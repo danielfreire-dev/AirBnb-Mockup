@@ -4,7 +4,7 @@ import Hero from "./components/Hero";
 import Card from "./components/Card";
 import data from "./data";
 
-import "./styles/style.css";
+import "/styles/style.css";
 import Footer from "./components/Footer";
 
 export default function App() {
