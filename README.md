@@ -1,1 +1,1 @@
-# AirBnb-Mockup
+# meme-generator

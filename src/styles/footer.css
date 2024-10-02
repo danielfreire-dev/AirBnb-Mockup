@@ -1,0 +1,16 @@
+.footer {
+	margin-top: auto;
+
+	/* center */
+
+	width: 100%;
+	max-width: 800px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+	font-size: 16px; /* Set a font size */
+
+	/* position: fixed;
+	bottom: 0; */
+}
