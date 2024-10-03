@@ -19,7 +19,7 @@ export default function App() {
 				<Hero />
 				<section className="cards-list">{cards}</section>
 			</div>
-			<Footer />
+			{/* <Footer /> */}
 		</>
 	);
 }
